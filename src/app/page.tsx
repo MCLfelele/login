@@ -1,7 +1,7 @@
 "use client"
-import { Fragment, useState } from 'react'
+import { Fragment, useState } from 'react';
 import { getAuth, signInWithEmailAndPassword } from "firebase/auth";
-import { auth } from "./firebase"
+import { auth } from "./firebase";
 
 
 const users = [
