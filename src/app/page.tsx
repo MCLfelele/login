@@ -80,7 +80,7 @@ const users = [
   { id: "user67_id", email: "akinbogun.morayo@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/GradeTwo/Akinbogun-Morayo.html" },
   { id: "user68_id", email: "bello.oluwalonimi@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/GradeTwo/Bello-Oluwalonimi.html" },
   { id: "user69_id", email: "owolabi.anjola@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/GradeTwo/Owolabi-Anjola.html" },
-  { id: "user70_id", email: " yinka-sobo.tumilara@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/GradeTwo/Yinka-Sobo-Tumilara.html" },
+  { id: "user70_id", email: "yinka-sobo.tumilara@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/GradeTwo/Yinka-Sobo-Tumilara.html" },
   { id: "user71_id", email: "olapade.elizabeth@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/GradeTwo/Olapade-Elizabeth.html" },
   { id: "user72_id", email: "okunola.ewatomi@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/GradeTwo/Okunola-Ewatomi.html" },
   { id: "user73_id", email: "olagunju.amira@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/GradeTwo/Olagunju-Amira.html" },
