@@ -42,12 +42,12 @@ const users = [
   {id: "user142_id", email: "babalola.annabelle@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/PreSchool/Babalola-Annabelle.html"},
   {id: "user143_id", email: "oladipupo.fikunremi@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/PreSchool/Oladipupo-Fikunremi.html"},
   {id: "user144_id", email: "oni.irebami@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/PreSchool/Oni-Irebami.html"},
-  {id: "user1442_id", email: "oni.irebami@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/PreSchool/Oni-Irebami.html"},
-  {id: "user1443_id", email: "oni.irebami@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/PreSchool/Oni-Irebami.html"},
-  {id: "user1444_id", email: "oni.irebami@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/PreSchool/Oni-Irebami.html"},
-  {id: "user1445_id", email: "oni.irebami@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/PreSchool/Oni-Irebami.html"},
-  {id: "user1446_id", email: "oni.irebami@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/PreSchool/Oni-Irebami.html"},
-  {id: "user1447_id", email: "oni.irebami@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/PreSchool/Oni-Irebami.html"},
+  {id: "user1442_id", email: "bada.morayoninuoluwa@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/PreSchool/Bada.Morayoninuoluwa.html"},
+  {id: "user1443_id", email: "ogunwale.tomide@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/PreSchool/Ogunwale-Tomide.html"},
+  {id: "user1444_id", email: "oluwaseun.david@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/PreSchool/Oluwaseun-David.html"},
+  {id: "user1445_id", email: "oluwarotimi.success@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/PreSchool/Oluwarotimi-Success.html"},
+  {id: "user1446_id", email: "omolegan.enoch@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/PreSchool/Omolegan-Enoch.html"},
+  {id: "user1447_id", email: "ladigbolu.darasimi@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/PreSchool/Ladigbolu-Darasimi.html"},
 
 
 
