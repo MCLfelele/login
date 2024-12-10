@@ -196,12 +196,12 @@ const users = [
 
   { id: "user114_id", email: "tileolanimi.oluwatomiwo@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/JssOne/Tileolanimi-Ogundeji-Oluwatomiwo.html" },
 
-  { id: "user234_id", email: "king.jomiloju@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/King.Jomiloju.html" },
-  { id: "user235_id", email: "olayemi.Raelle@mcl.com", profileUrl: "https://portal-six-xi.vercel.app//Olayemi.Raelle@mcl.com.html" },
-  { id: "user236_id", email: "onaja.empress@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/onaja.empress@mcl.com.html" },
-  { id: "user237_id", email: "akingidun.christopher@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/akingidun.christopher@mcl.com.html" },
-  { id: "user238_id", email: "ogundeji-tileolanimi@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/ogundeji-tileolanimi@mcl.com.html" },
-  { id: "user239_id", email: "onaja.emilia@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/onaja.emilia@mcl.com.html" },
+  { id: "user234_id", email: "king.jomiloju@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/King-Jomiloju.html" },
+  { id: "user235_id", email: "olayemi.Raelle@mcl.com", profileUrl: "https://portal-six-xi.vercel.app//Olayemi-Raelle.html" },
+  { id: "user236_id", email: "onaja.empress@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/Onaja-Empress.html" },
+  { id: "user237_id", email: "akingidun.christopher@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/Akingidun-Christopher.html" },
+  { id: "user238_id", email: "ogundeji-tileolanimi@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/Ogundeji-Tileolanimi.html" },
+  { id: "user239_id", email: "onaja.emilia@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/Onaja-Emilia.html" },
   
   
 ];
