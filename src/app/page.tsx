@@ -209,7 +209,7 @@ const users = [
   { id: "user234_id", email: "king.jomiloju@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/King-Jomiloju.html" },
   { id: "user235_id", email: "olayemi.Raelle@mcl.com", profileUrl: "https://portal-six-xi.vercel.app//Olayemi-Raelle.html" },
   { id: "user236_id", email: "onaja.empress@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/Onaja-Empress.html" },
-  { id: "user237_id", email: "akingidun.christopher@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/Akingidun-Christopher.html" },
+  { id: "user237_id", email: "akinbogun.christopher@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/Akinbogun-Christopher.html" },
   { id: "user238_id", email: "ogundeji-tileolanimi@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/Ogundeji-Tileolanimi.html" },
   { id: "user239_id", email: "onaja.emilia@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/Onaja-Emilia.html" },
   
