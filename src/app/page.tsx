@@ -100,6 +100,8 @@ const users = [
   { id: "user48_id", email: "atunwa.amaris@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/GradeOne/Atunwa-Amaris.html" },
   { id: "user49_id", email: "awotade.cedar@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/GradeOne/Awotade-Cedar.html" },
    { id: "user49_id", email: "adelakun.ireoluwa@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/GradeOne/Adelakun-Ireoluwa-John.html" },
+   { id: "user491_id", email: "i.hanabel@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/GradeOne/Imoletoba-Hanabel.html" },
+   { id: "user49_id", email: "tomori.aliyat@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/GradeOne/Tomori-Aliyat.html" },
 
 
   { id: "user50_id", email: "adeniyi.derek@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/GradeTwo/Adeniyi-Derek.html" },
@@ -132,6 +134,9 @@ const users = [
   { id: "user77_id", email: "olatunji.peace@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/GradeTwo/Olatunji-Peace.html" },
   { id: "user761_id", email: "adelakun.ohunoluwa@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/GradeTwo/Adelakun-Ohunoluwa.html" },
   { id: "user771_id", email: "akintade.erioluwa@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/GradeTwo/Akintade-Erioluwa.html" },
+   { id: "user772_id", email: "davina.oni@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/GradeTwo/Davina-Oni.html" },
+   { id: "user773_id", email: "joel.olowu@mcl.com", profileUrl: "https://portal-six-xi.vercel.app/GradeTwo/Joel-Olowu.html" },
+
 
 
 
